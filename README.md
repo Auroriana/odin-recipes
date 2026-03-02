@@ -1,4 +1,4 @@
-# odin-recipes
+# Odin Recipes
 The Odin Project: Project 1: Odin Recipes
 This is my first project for **The Odin Project** curriculum. You can find the assignment details [here](https://www.theodinproject.com).
 
