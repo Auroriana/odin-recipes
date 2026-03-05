@@ -1,0 +1,41 @@
+/* Homepage */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.homepage {
+    text-align: center;
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.title {
+    display: inline-block;
+    font-size: 30px;
+    background-color: wheat;
+    padding: 10px 20px;
+    border-radius: 12px;
+    margin-top: 30px;
+    box-shadow: 8px 8px 0px rgba(0,0,0,0.1);
+}
+
+.desc {
+    padding: 20px 0px 0px;
+    font-size: 20px;
+}
+
+.foodlist {
+    list-style: circle;
+    padding: 0px;
+    text-align: center;
+    margin: 5px;
+}
+
+/* Chicken Adobo */
+
+.Backbutton {
+    text-align: left;
+    margin: 20px;
+}
