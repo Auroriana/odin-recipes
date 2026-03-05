@@ -12,7 +12,7 @@ body {
 
 .container {
     background-color: wheat;
-    box-shadow: 15px 0px 5px rgba(0,0,0,0.5), -15px 0px 5px rgba(0,0,0,0.5);
+    box-shadow: 15px 0px 10px rgba(0,0,0,0.5), -15px 0px 10px rgba(0,0,0,0.5), 0px 15px 10px rgba(0,0,0,0.5);;
     max-width: 900px;
     margin: 0 auto;
 }
