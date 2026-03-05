@@ -3,17 +3,17 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  font-family: "Oswald"
 }
 
 .homepage {
     text-align: center;
-    margin: 0;
-    font-family: 'Times New Roman', Times, serif;
+    margin: 0 auto;
 }
 
 .title {
     display: inline-block;
-    font-size: 30px;
+    font-size: 40px;
     background-color: wheat;
     padding: 10px 20px;
     border-radius: 12px;
@@ -35,7 +35,12 @@
 
 /* Chicken Adobo */
 
-.Backbutton {
+.Backbutton a {
     text-align: left;
-    margin: 20px;
+    margin-left:20px;
+    text-decoration: none;;
+}
+
+.current-page {
+    color: black;
 }
